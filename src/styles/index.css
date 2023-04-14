@@ -1,0 +1,26 @@
+.conty {
+    display: flex;
+    flex-direction: row;
+    flex-flow: wrap;
+    justify-content: center;
+    background-repeat: no-repeat;
+}
+
+nav, h1 {
+text-align: center;
+padding: 10px;
+color: black;
+}
+
+.container {
+    text-align: center;
+}
+
+body {
+    background-color: burlywood;
+    padding: 50px;
+}
+
+.cont, footer { 
+    text-align: center;
+}

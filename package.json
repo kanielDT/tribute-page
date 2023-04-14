@@ -1,0 +1,14 @@
+{
+  "name": "tribute-page",
+  "homepage": "https://kanieldt.github.io/TRIBUTE-PAGE",
+
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
