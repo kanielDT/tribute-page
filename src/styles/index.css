@@ -1,26 +1,21 @@
-.conty {
-    display: flex;
-    flex-direction: row;
-    flex-flow: wrap;
-    justify-content: center;
-    background-repeat: no-repeat;
-}
-
-nav, h1 {
-text-align: center;
-padding: 10px;
-color: black;
-}
-
-.container {
-    text-align: center;
-}
-
 body {
-    background-color: burlywood;
-    padding: 50px;
+    background-color: rgb(29, 128, 204);
 }
 
-.cont, footer { 
+section {
+    background-image: url(../images/manny.png);
+    background-size: cover;
+    padding: 10px;
     text-align: center;
+}
+
+footer {
+    color: rgb(255, 255, 255);
+    text-align: center;
+}
+
+h1,
+h2,
+p {
+    color: burlywood;
 }
